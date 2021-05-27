@@ -12,5 +12,5 @@
 
 ### 🚀 Languages and Tools
 
-
-  
+<img align="left" src="icons/c-sharp-solid.svg" />
+<img align="left" src="icons/dot-net.svg" />
