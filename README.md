@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 - 💬 Ask me about **Anything.**
 - 📫 How to reach me: <a href="https://linkedin.com/in/eaycayildirim" target="blank"><img src="icons/linkedin.svg" alt="eaycayildirim" width="22px" /></a>
-- 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I'm a gamer.**
 
 ### 🚀 Languages and Tools
