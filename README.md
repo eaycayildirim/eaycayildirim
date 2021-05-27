@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Structures and SQL.**
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 - 💬 Ask me about **Anything.**
-- 📫 How to reach me: <img src="icons/iconfinder_google-gmail_7089163.svg" width=22px /> <a href="https://linkedin.com/in/eaycayildirim" target="blank"><img src="icons/linkedin.svg" alt="eaycayildirim" width="22px" /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/eaycayildirim" target="blank"><img src="icons/linkedin.svg" alt="eaycayildirim" width="22px" /></a>
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I'm a gamer.**
 
