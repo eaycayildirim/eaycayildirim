@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Ayça <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a passionate Software Developer from Turkey.</h3>
+<h3 align="center">I'm a passionate Software Developer from Germany.</h3>
 
 ### 🙋🏻‍♀️About me
 
