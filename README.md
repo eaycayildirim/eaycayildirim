@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Ayça <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
+<h1 align="center">Hello there, I'm Ayça <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="5px"></h1>
 <h3 align="center">I'm a passionate Software Developer from Germany.</h3>
 
 ### 🙋🏻‍♀️About me
